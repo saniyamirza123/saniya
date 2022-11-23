@@ -1,0 +1,5 @@
+class student extends component{
+    render(){
+        return <h1> hello class { this.props.children}</h1>;
+    }
+}
